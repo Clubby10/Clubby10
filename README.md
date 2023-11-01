@@ -8,5 +8,5 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['c++', 'Java', 'Python', 'Ruby', 'Swift'];
+  languages  = ['c++', 'Java', 'Python', 'Swift'];
 }```
